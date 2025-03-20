@@ -1,0 +1,10 @@
+LogLine{text='This is a log message', time=04/03/2025 14:16:45}
+LogLine{text='This is another log message', time=04/03/2025 14:16:45}
+LogLine{text='This is a third log message', time=04/03/2025 14:16:45}
+LogLine{text='This is a log message', time=04/03/2025 14:17:19}
+LogLine{text='This is another log message', time=04/03/2025 14:17:19}
+LogLine{text='This is a third log message', time=04/03/2025 14:17:19}
+LogLine{text='This is a log message', time=04/03/2025 14:29:08}
+LogLine{text='This is another log message', time=04/03/2025 14:29:08}
+LogLine{text='This is a third log message', time=04/03/2025 14:29:08}
+LogLine{text='Halløj', time=04/03/2025 14:29:08}

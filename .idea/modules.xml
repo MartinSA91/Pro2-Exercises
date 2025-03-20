@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuctionHouse/AuctionHouse.iml" filepath="$PROJECT_DIR$/AuctionHouse/AuctionHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuctionSWE/AuctionSWE.iml" filepath="$PROJECT_DIR$/AuctionSWE/AuctionSWE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BurgerBar/BurgerBar.iml" filepath="$PROJECT_DIR$/BurgerBar/BurgerBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputerSimulator/ComputerSimulator.iml" filepath="$PROJECT_DIR$/ComputerSimulator/ComputerSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfessionChair/ConfessionChair.iml" filepath="$PROJECT_DIR$/ConfessionChair/ConfessionChair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CounterIncrementer_2/CounterIncrementer_2.iml" filepath="$PROJECT_DIR$/CounterIncrementer_2/CounterIncrementer_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CounterIncrementor/CounterIncrementor.iml" filepath="$PROJECT_DIR$/CounterIncrementor/CounterIncrementor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Door/Door.iml" filepath="$PROJECT_DIR$/Door/Door.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FairBurgerBar/FairBurgerBar.iml" filepath="$PROJECT_DIR$/FairBurgerBar/FairBurgerBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football/Football.iml" filepath="$PROJECT_DIR$/Football/Football.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InParts/InParts.iml" filepath="$PROJECT_DIR$/InParts/InParts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Reservation/LP_Reservation.iml" filepath="$PROJECT_DIR$/LP_Reservation/LP_Reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Log/Log.iml" filepath="$PROJECT_DIR$/Log/Log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login System/Login System.iml" filepath="$PROJECT_DIR$/Login System/Login System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginClient/LoginClient.iml" filepath="$PROJECT_DIR$/LoginClient/LoginClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginServer/LoginServer.iml" filepath="$PROJECT_DIR$/LoginServer/LoginServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mvvm_exercises-client/Mvvm_exercises-client.iml" filepath="$PROJECT_DIR$/Mvvm_exercises-client/Mvvm_exercises-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notification/Notification.iml" filepath="$PROJECT_DIR$/Notification/Notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro2-Exercises.iml" filepath="$PROJECT_DIR$/Pro2-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjektOrdListe/ProjektOrdListe.iml" filepath="$PROJECT_DIR$/ProjektOrdListe/ProjektOrdListe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasklist/Tasklist.iml" filepath="$PROJECT_DIR$/Tasklist/Tasklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Themometer_V1/Themometer_V1.iml" filepath="$PROJECT_DIR$/Themometer_V1/Themometer_V1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thermometer/Thermometer.iml" filepath="$PROJECT_DIR$/Thermometer/Thermometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeConversion/TimeConversion.iml" filepath="$PROJECT_DIR$/TimeConversion/TimeConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uppercase/Uppercase.iml" filepath="$PROJECT_DIR$/Uppercase/Uppercase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uppercase_V2/Uppercase_V2.iml" filepath="$PROJECT_DIR$/Uppercase_V2/Uppercase_V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm_exercises_server/mvvm_exercises_server.iml" filepath="$PROJECT_DIR$/mvvm_exercises_server/mvvm_exercises_server.iml" />
+    </modules>
+  </component>
+</project>
