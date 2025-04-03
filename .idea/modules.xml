@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayTest/ArrayTest.iml" filepath="$PROJECT_DIR$/ArrayTest/ArrayTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/AuctionHouse/AuctionHouse.iml" filepath="$PROJECT_DIR$/AuctionHouse/AuctionHouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/AuctionSWE/AuctionSWE.iml" filepath="$PROJECT_DIR$/AuctionSWE/AuctionSWE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/BurgerBar/BurgerBar.iml" filepath="$PROJECT_DIR$/BurgerBar/BurgerBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClockPassword/ClockPassword.iml" filepath="$PROJECT_DIR$/ClockPassword/ClockPassword.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerSimulator/ComputerSimulator.iml" filepath="$PROJECT_DIR$/ComputerSimulator/ComputerSimulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConfessionChair/ConfessionChair.iml" filepath="$PROJECT_DIR$/ConfessionChair/ConfessionChair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CookieJar/CookieJar.iml" filepath="$PROJECT_DIR$/CookieJar/CookieJar.iml" />
       <module fileurl="file://$PROJECT_DIR$/CounterIncrementer_2/CounterIncrementer_2.iml" filepath="$PROJECT_DIR$/CounterIncrementer_2/CounterIncrementer_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CounterIncrementor/CounterIncrementor.iml" filepath="$PROJECT_DIR$/CounterIncrementor/CounterIncrementor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Door/Door.iml" filepath="$PROJECT_DIR$/Door/Door.iml" />
@@ -22,10 +27,12 @@
       <module fileurl="file://$PROJECT_DIR$/Notification/Notification.iml" filepath="$PROJECT_DIR$/Notification/Notification.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pro2-Exercises.iml" filepath="$PROJECT_DIR$/Pro2-Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjektOrdListe/ProjektOrdListe.iml" filepath="$PROJECT_DIR$/ProjektOrdListe/ProjektOrdListe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueListBased/QueueListBased.iml" filepath="$PROJECT_DIR$/QueueListBased/QueueListBased.iml" />
       <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tasklist/Tasklist.iml" filepath="$PROJECT_DIR$/Tasklist/Tasklist.iml" />
       <module fileurl="file://$PROJECT_DIR$/Themometer_V1/Themometer_V1.iml" filepath="$PROJECT_DIR$/Themometer_V1/Themometer_V1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thermometer/Thermometer.iml" filepath="$PROJECT_DIR$/Thermometer/Thermometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadSafeList/ThreadSafeList.iml" filepath="$PROJECT_DIR$/ThreadSafeList/ThreadSafeList.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimeConversion/TimeConversion.iml" filepath="$PROJECT_DIR$/TimeConversion/TimeConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uppercase/Uppercase.iml" filepath="$PROJECT_DIR$/Uppercase/Uppercase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uppercase_V2/Uppercase_V2.iml" filepath="$PROJECT_DIR$/Uppercase_V2/Uppercase_V2.iml" />

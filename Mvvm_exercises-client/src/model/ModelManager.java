@@ -47,6 +47,7 @@ public class ModelManager implements Model
   @Override public ArrayList<Exercise> getAllExercises()
   {
     return exerciseClient.getAllExercises();
+  }
     private synchronized ExercisePackage waitForReply(String type, String number)
     {
       ExercisePackage received = null;
